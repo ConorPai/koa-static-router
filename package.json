@@ -1,6 +1,6 @@
 {
   "name": "koa-static-router",
-  "repository": "Rise-Devin/koa-static-router",
+  "repository": "ConorPai/koa-static-router",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

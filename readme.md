@@ -49,16 +49,11 @@ app.use(static([
 
 ## Example
 ```
-git clone git@github.com:Rise-Devin/koa-static-router.git
+git clone git@github.com:ConorPai/koa-static-router.git
 cd koa-static-router
 npm install 
 npm start
-```
-Access localhost:3000/public/image/dir/1.png
-![](https://github.com/Rise-Devin/koa-static-router/blob/master/img/public.png?raw=true)
-Access localhost:3000/static/image/dir/2.png
-![](https://github.com/Rise-Devin/koa-static-router/blob/master/img/static.png?raw=true)
-```javascript
+
 const static = require('koa-static-router');
 
 //   A Single Router
